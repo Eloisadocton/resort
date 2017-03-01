@@ -1,0 +1,81 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 0;
+}
+
+h1 {
+  color: #00a5e3;
+  font-size: 2.5vw;
+  text-align: center;
+  font-weight: lighter;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #ff0066;
+  font-size: 3.5vw;
+  text-align: center;
+  font-weight: extra-bold;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+h3 {
+  color: #4a4949;
+  font-size: 1.8vw;
+  text-align: center;
+  font-weight: normal;
+  margin: 0;
+  margin-top: 3%;
+}
+
+h4  {
+  color: #0db14b;
+  font-size: 1.8vw;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 3%;
+}
+
+h5 {
+  color: #ef5a93;
+  font-size: 2.5vw;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3%;
+  text-transform: uppercase;
+}
+.resorts {
+  text-align: justify;
+  font-style: italic;
+}
+
+.offers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  margin: 0;
+}
+
+img{
+width: auto;
+margin: 2%;
+margin-top: 5%;
+}
+
+.summersale {
+  display: flex;
+  text-align: center;
+}
+iframe {
+  margin: 0;
+}
+
+.resorts {
+  mamrgin: 5%;
+}
